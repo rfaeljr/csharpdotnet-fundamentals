@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PRJ001</id>
+    <version>1.0.0</version>
+    <authors>PRJ001</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rafaelcosta\OneDrive - BRK Ambiental\Área de Trabalho\Person\Estudos\CSharp\PRJ001\PRJ001\bin\Debug\net6.0\PRJ001.runtimeconfig.json" target="lib\net6.0\PRJ001.runtimeconfig.json" />
+    <file src="C:\Users\rafaelcosta\OneDrive - BRK Ambiental\Área de Trabalho\Person\Estudos\CSharp\PRJ001\PRJ001\bin\Debug\net6.0\PRJ001.dll" target="lib\net6.0\PRJ001.dll" />
+  </files>
+</package>
